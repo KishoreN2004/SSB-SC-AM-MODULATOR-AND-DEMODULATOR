@@ -58,10 +58,24 @@ Note: Keep all the switch faults in off position
 
 ## PROGRAM
 
+<img width="689" height="832" alt="Screenshot 2025-08-21 155459" src="https://github.com/user-attachments/assets/e3c77451-85ab-4e40-8aff-17e787a32b80" />
+
+<img width="729" height="660" alt="Screenshot 2025-08-21 155532" src="https://github.com/user-attachments/assets/d3193c32-4879-4e03-a34b-e256a2a3cd68" />
+
+
+
 ## TABULATION
+
+![IMG-20251016-WA0021](https://github.com/user-attachments/assets/079971ad-bb06-4426-977b-3acaece4f58e)
+
 
 ## OUTPUT
 
+<img width="1917" height="886" alt="Screenshot 2025-08-21 155445" src="https://github.com/user-attachments/assets/c05b7748-6f54-40cf-a6b8-df504d4a19dc" />
+
+
 ## RESULT
+
+Thus, the SSB-SC-AM Modulation and Demodulation is experimentally done and the output is verified.
 
 
