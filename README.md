@@ -71,7 +71,7 @@ Note: Keep all the switch faults in off position
 
 ## OUTPUT
 
-<img width="1917" height="886" alt="Screenshot 2025-08-21 155445" src="https://github.com/user-attachments/assets/c05b7748-6f54-40cf-a6b8-df504d4a19dc" />
+<img width="798" height="618" alt="image" src="https://github.com/user-attachments/assets/9e25008e-ed86-4ea5-b639-1cd19a859571" />
 
 
 ## RESULT
